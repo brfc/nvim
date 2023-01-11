@@ -10,3 +10,11 @@ nvim .
 :PackerSync
 ```
 
+To install execute 
+```
+./install.sh && ./setup.sh
+nvim :PackerSync
+```
+
+## Dependencies
+
